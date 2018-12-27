@@ -49,14 +49,9 @@ aside {
     width: 40%;
     height: 100%;
     overflow: auto;
-    margin-left: -1600px;
-    padding: 0 20px 0 1620px;
     text-align: left;
     font-size: 85%;
     color: black;
-	/* background-image: url(../img/profilepic.png); */
-    background-size: 20%;
-    background-position: -50% center;
 }
 
 p {
