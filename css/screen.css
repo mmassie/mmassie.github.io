@@ -6,21 +6,12 @@ body {
     text-rendering: optimizeLegibility;
     color: black;
     background: white;
-	background-color: white;
 	font-weight: 300;
 	padding: 0;
 	letter-spacing: 1.2px;
 	color: #1C1C1C;
 	font-size: 18px;
 	line-height: 1.6em;
-}
-/* 
-Good for desktop to iPad dims, should break here to go smaller
-/*
-
-html {
-    height: 100%; /* required for `min-height` on the body to equate to at least screen-height also */
-
 }
 
 body {
@@ -174,5 +165,4 @@ a.subURL:hover {
 	width: 40%;
     }
 
-}
 }
