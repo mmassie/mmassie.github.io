@@ -54,7 +54,7 @@ aside {
     text-align: left;
     font-size: 85%;
     color: black;
-	/background-image: url(../img/profilepic.png);
+	/* background-image: url(../img/profilepic.png); */
     background-size: 20%;
     background-position: -50% center;
 }
