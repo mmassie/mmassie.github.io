@@ -39,7 +39,7 @@ aside {
     /* use `position: fixed` for a neat effect. use `overflow: hidden` to cut off when main column is short */
     display: inline;
     position: absolute;
-    width: 30%;
+    width: 50%;
     height: 100%;
     overflow: auto;
 }
