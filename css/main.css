@@ -41,7 +41,7 @@ aside {
     position: absolute;
     width: 30%;
     height: 100%;
-    overflow: auto;
+    overflow: hidden;
 }
 
 .ProfilePic {
