@@ -1,2 +1,3 @@
 name: Mike Massie's Personal Site
 markdown: kramdown
+theme: jekyll-theme-minimal
