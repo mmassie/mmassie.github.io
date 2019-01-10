@@ -1,3 +1,8 @@
+---
+layout: post
+tags: 3dPrint Violin 
+---
+
 # Rebuilding a family heirloom
 
 ![](http://milwaukeemakerspace.org/wp-content/uploads/2014/05/7760937818_79a3a8f99e_b-640x478.jpg)
