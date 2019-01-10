@@ -2,7 +2,7 @@
 
 ![](http://milwaukeemakerspace.org/wp-content/uploads/2014/05/7760937818_79a3a8f99e_b-640x478.jpg)
 
-##BACKGROUND:
+## BACKGROUND:
 
 For as long as I know this violin was hidden at my Grandparent's house, came over with my family from France, and rarely got pulled out. This is an especially sensitive item because the name written on the inside holds the name Stradivarius. After my Grandfather had passed and my Grandmother moved into assisted living, I was given the honor of being the caretaker of the family violin. What I received was a neck (separated from the body), the body, and one tuning peg. The only thing that I knew about this violin is that no living Massie, or person for that matter, has heard it played.
 
@@ -16,7 +16,7 @@ Before any repairs could happen I'd have to find out exactly what I had in my ha
 *   The single peg was made of a softer wood that typically used ebony, meaning this was an even lower end piece.
 
 
-##REBUILD:
+## REBUILD:
 
 I investigated options from paying to have it repaired back to play grade, repaired enough to be an art piece, or just leave it as is. It is a family heirloom so lending it for someone to play was selfishly not attractive. Repairing it with current parts would obfuscate what was part of the original and what is new. Finally, leaving it busted up was just not cool.
 
@@ -26,7 +26,7 @@ At a later trip to the museum I saw the T-Rex had a bright white resin femur pla
 
 These use cases inspired me to try replacing the parts in some type of acrylic or pop color plastic replacement.
 
-##PROCESS:
+## PROCESS:
 As a Milwaukee Makerspace member I felt the best solution would be to replace all the missing pieces in 3D prints based off original parts (scanned and/or measured out). I additionally chose white cause it stood out against the dark wood.
 
 ![Process Image](http://milwaukeemakerspace.org/wp-content/uploads/2014/05/7760977772_bc18ccb17a_b-640x478.jpg)
