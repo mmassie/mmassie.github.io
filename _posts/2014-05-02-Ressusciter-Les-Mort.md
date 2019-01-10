@@ -41,7 +41,7 @@ I measured out the Tuning Peg by hand, rebuilt in SketchUp (don't laugh) and pri
 
 Similar models of the tailpiece and the chin rest were purchased, sanded down, painted a flat grey and then scanned on a 3D scanner.
 
-Once all pieces scans were complete, it was time to bring it all together (Thingiverse STLs  - [Violin Peg](http://www.thingiverse.com/thing:318523), [Chin Rest](http://www.thingiverse.com/thing:318528), [Tailpiece](http://www.thingiverse.com/thing:318526).
+Once all pieces scans were complete, it was time to bring it all together (Thingiverse STLs  - [Violin Peg](http://www.thingiverse.com/thing:318523), [Chin Rest](http://www.thingiverse.com/thing:318528), [Tailpiece](http://www.thingiverse.com/thing:318526))
 
 This was the easiest part, cause it just involved me handing someone a bag of money. Final edited STL's were sent off to [Shapeways](http://www.shapeways.com/) to be printed and once returned all parts were taken to someone to be cleaned, assembled, strung and tuned.
 
