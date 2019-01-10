@@ -27,28 +27,30 @@ body {
 
 		/* main column */
 article	{
-    display: block;
+	display: block;
+	position: relative;
     padding: 110px 40px 40px;
     padding-left: 35%;
     line-height: 1.8em;
 	color: #434343;
+	min-width: 400px;
 }
 
 		/* left column */
 aside {
     /* use `position: fixed` for a neat effect. use `overflow: hidden` to cut off when main column is short */
-    display: inline;
+    display: block;
     position: absolute;
     width: 30%;
     height: 100%;
-    overflow: hidden;
+	overflow: hidden;
+	min-width: 300px;
 }
 
 .ProfilePic {
 	position: relative;
-	width: 300px;
-	height: 300px;
-	margin-left: 30%;
+	width: 70%;
+	margin-left: 20%;
 	margin-top: 30%;
 }
 
