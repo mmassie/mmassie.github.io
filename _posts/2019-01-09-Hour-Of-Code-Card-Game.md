@@ -1,6 +1,9 @@
 ---
 layout: post
+<<<<<<< HEAD
 tags: prototype game 
+=======
+>>>>>>> 28fb59f2eee566d7de58bbce2810acef5ab96f45
 ---
 
 # Hour of Code Card Game
@@ -9,7 +12,7 @@ As last week’s Hour of Code wraps up I wanted to share a side project - an ear
 
 The early goal was to make an engaging card game around data hierarchy targeting the 5– 8-year-old demographic. When researching opportunities we used the 2017 Wisconsin Computer Science Standards report and found that teaching goals in 5–8 were:
 
-DA2.b.1.e: Sort objects into buckets, recognizing relevant and/or irrelevant data (e.g., one of these things is not like the other).: https://dpi.wi.gov/sites/default/files/imce/computer-science/computersciencestandardsfinaladopted.pdf
+_DA2.b.1.e: Sort objects into buckets, recognizing relevant and/or irrelevant data (e.g., one of these things is not like the other).: [2017 Wisconsin Computer Science Standards](https://dpi.wi.gov/sites/default/files/imce/computer-science/computersciencestandardsfinaladopted.pdf)_
 
 ![](../assets/img/kidscards.jpg)
 
