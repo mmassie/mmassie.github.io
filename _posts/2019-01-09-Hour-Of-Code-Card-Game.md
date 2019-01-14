@@ -2,8 +2,6 @@
 layout: post
 ---
 
-# Hour of Code Card Game
-
 As last week’s Hour of Code wraps up I wanted to share a side project - an early prototype card game around data architecture - some colleagues and I worked on.
 
 The early goal was to make an engaging card game around data hierarchy targeting the 5– 8-year-old demographic. When researching opportunities we used the 2017 Wisconsin Computer Science Standards report and found that teaching goals in 5–8 were:
