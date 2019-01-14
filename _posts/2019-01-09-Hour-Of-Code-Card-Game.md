@@ -8,7 +8,7 @@ The early goal was to make an engaging card game around data hierarchy targeting
 
 _DA2.b.1.e: Sort objects into buckets, recognizing relevant and/or irrelevant data (e.g., one of these things is not like the other).: [2017 Wisconsin Computer Science Standards](https://dpi.wi.gov/sites/default/files/imce/computer-science/computersciencestandardsfinaladopted.pdf)_
 
-![](https://michaelmassie/assets/img/kidscards.jpg)
+![Kids at play](https://michaelmassie.com/assets/img/kidscards.jpg)
 
 As you can see in this earlier version, there was and still is some tweaking that’s needed around the game mechanics. We clearly over incentivized the use of “has” in our point system. Also, we’re building out ways to stack cards to push a Generic and an Instance play to open the ability to block opponents.
 
