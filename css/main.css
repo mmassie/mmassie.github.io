@@ -4,7 +4,7 @@ body {
     border: 0;
     font: 14px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
     text-rendering: optimizeLegibility;
-    color: black;
+    color: rgb(22, 22, 22);
     background: white;
 	font-weight: 300;
 	padding: 0;
