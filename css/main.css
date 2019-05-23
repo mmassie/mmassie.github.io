@@ -10,7 +10,7 @@ body {
 	padding: 0;
 	letter-spacing: 1.2px;
 	color: #1C1C1C;
-	font-size: 18px;
+	font-size: 16px1.3em;
 	line-height: 1.6em;
 }
 
@@ -152,11 +152,12 @@ a.subURL:hover {
     
     article {
         padding: 40px 40px 40px;
-        width: 80%;
+		width: 60%;
+		font-size: 2em;
     }
     
     #title {
-	font-size: 1.7em;
+	font-size: 2em;
     }
     
     p {
