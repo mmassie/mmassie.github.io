@@ -5,7 +5,7 @@ body {
     font: 14px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
     text-rendering: optimizeLegibility;
     color: rgb(22, 22, 22);
-    background: white;
+    background:#E8E9E9;
 	font-weight: 300;
 	padding: 0;
 	letter-spacing: 1.2px;
@@ -93,14 +93,14 @@ ul.nav-tabs {
 
 a:link, a:visited{
 	color: #3B3B3B;
-    background: #E9E9E9;
+    background: #E8E9E9;
 	text-decoration: none;
 	padding: 1px;
 }
 
 a:hover {
 	border-bottom: solid;
-	border-color: #0DA3FF;
+	border-color: #EA7E0F;
 	text-decoration: none;
 }
 
@@ -108,12 +108,12 @@ a:hover {
 a.subURL:link, a.subURL:visited{
 	text-decoration: none;
 	padding: 4px;
-    background: white;
+    background: #E8E9E9;
 }
 
 a.subURL:hover {
 	border-bottom: solid;
-	border-color: #0DA3FF;
+	border-color: #EA7E0F;
 }
 
 #title {
@@ -138,11 +138,11 @@ a.subURL:hover {
 }
 
 ::selection {
-	color: white;
+	color: #D4D6C9;
 	background: #C188BB; /* Safari */
 	}
 ::-moz-selection {
-	color: white;
+	color: #D4D6C9;
 	background: #C188BB; /* Firefox */
 }
 
