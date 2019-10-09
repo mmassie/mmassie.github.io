@@ -38,14 +38,29 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
-a {
-  color:#267CB9;
-  text-decoration:none;
+a:link, a:visited{
+	color: #3B3B3B;
+    background: #E8E9E9;
+	text-decoration: none;
+	padding: 1px;
 }
 
-a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
+a:hover {
+	border-bottom: solid;
+	border-color: #EA7E0F;
+	text-decoration: none;
+}
+
+
+a.subURL:link, a.subURL:visited{
+	text-decoration: none;
+	padding: 4px;
+    background: #E8E9E9;
+}
+
+a.subURL:hover {
+	border-bottom: solid;
+	border-color: #EA7E0F;
 }
 
 a small {
