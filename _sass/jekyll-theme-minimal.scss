@@ -52,7 +52,6 @@ a:hover {
 	text-decoration: none;
 }
 
-
 a.subURL:link, a.subURL:visited{
 	text-decoration: none;
 	padding: 4px;
@@ -138,6 +137,8 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+
+ul,li{ list-style:none; }
 
 ul.downloads {
   list-style:none;
