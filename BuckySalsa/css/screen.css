@@ -1,0 +1,64 @@
+body {
+	margin: 60px;
+	background-color: white;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	-webkit-font-smoothing: antialiased;
+ 	text-rendering: optimizeLegibility;
+	font-weight: 300;
+	padding: 20px;
+	color: black;
+	font-size: 16px;
+	line-height: 25px;
+	letter-spacing: 1.2px;
+	min-width: 630px;
+	max-width: 900px;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.container {
+	width: 100%;
+}
+
+.banner {
+	top: 80px;
+}
+
+.tipJar {
+	top: 50px;
+	width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h3.fill {
+	font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+p {
+	font-size: 13px;
+	text-align: center;
+	margin-top: -15px;
+	margin-bottom: 30px;
+}
+
+.donate {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60px;
+}
+
+::selection {
+	color: white;
+	background: #F19F07; /* Safari */
+	}
+::-moz-selection {
+	color: white;
+	background: #F19F07; /* Firefox */
+}

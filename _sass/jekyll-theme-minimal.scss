@@ -2,11 +2,15 @@
 @import "rouge-github";
 
 body {
-  background-color: #fff;
-  padding:50px;
-  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
-  font-weight:400;
+  background-color: #E8E9E9;
+  padding:80px;
+  font: 14px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-weight: 300;
+	padding: 0;
+	letter-spacing: 1.2px;
+	color: #1C1C1C;
+	font-size: 18px;
+	line-height: 1.6em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -16,6 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
+  font-size: 14px;
 }
 
 h1, h2, h3 {
@@ -34,14 +39,28 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
-a {
-  color:#267CB9;
-  text-decoration:none;
+a:link, a:visited{
+	color: #3B3B3B;
+    background: #E8E9E9;
+	text-decoration: none;
+	padding: 1px;
 }
 
-a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
+a:hover {
+	border-bottom: solid;
+	border-color: #EA7E0F;
+	text-decoration: none;
+}
+
+a.subURL:link, a.subURL:visited{
+	text-decoration: none;
+	padding: 4px;
+    background: #E8E9E9;
+}
+
+a.subURL:hover {
+	border-bottom: solid;
+	border-color: #EA7E0F;
 }
 
 a small {
@@ -56,7 +75,8 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:900px;
+  padding: 100px;
   margin:0 auto;
 }
 
@@ -117,6 +137,8 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+
+li{ list-style:none; }
 
 ul.downloads {
   list-style:none;
