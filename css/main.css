@@ -3,7 +3,6 @@ body {
     padding: 0;
     border: 0;
     font: 14px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
-    text-rendering: optimizeLegibility;
     color: rgb(22, 22, 22);
     background:#E8E9E9;
 	font-weight: 300;
