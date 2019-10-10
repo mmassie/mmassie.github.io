@@ -1,5 +1,6 @@
 ---
 layout: post
+image: https:/michaelmassie.com/assets/img/kidscards.jpg
 ---
 
 As last week’s Hour of Code wraps up I wanted to share a side project - an early prototype card game around data architecture - some colleagues and I worked on.
