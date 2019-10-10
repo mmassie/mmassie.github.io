@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: Concept Prototype
+image: https://michaelmassie.com/assets/img/Screen2screen.png
 ---
 
 As the second screen evolves into how we engage with big screen content
