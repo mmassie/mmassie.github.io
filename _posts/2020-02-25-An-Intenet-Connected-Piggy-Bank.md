@@ -28,7 +28,7 @@ So how are we doing in teaching financial literacy, anyway? Well it turns out th
 
 So here we are; an IoT Piggy Bank that connects to a mobile app that parents can control to show savings over up to four goals - save, spend, invest and donate (based off a popular savings teaching model). We baked in tools like allowance and weighted goals - so that money that goes into savings doesn't equally go toward college and a new game console. And now when Grandma and Grandpa give money for a birthday, holiday etc, even if it was sent digitally to the parent, the child can see it represented in their Piggy Bank.
 
-![Gen 1](https://michaelmassie.com/assets/img/Gen1Day1.jpg)
+![Gen 1](https://michaelmassie.com/assets/img/day1.jpg)
 
 The original design started on a Raspberry Pi but with the help of peers (all thanks below) it was recognized that we’d have to snub out a lot of extra services. So the build pivoted to Particle's Photon board offering better ability to scale and also cloud management. A custom PCB board was printed in order to hold the LED banks and then some tweaks and touches in case design (more on that below). More recently I added a Passive Infrared Sensor (PiR) to wake the device when there is movement in front of it. Don't worry, we also added wake/sleep hour settings in the app quickly after running some home tests. The rest is fairly straight forward, cloud services to manage state of the app and piggy bank. For connections to finances it’s relying on “sneaker banking” - aka the parents have to move the money in their bank of choice manually.
 
