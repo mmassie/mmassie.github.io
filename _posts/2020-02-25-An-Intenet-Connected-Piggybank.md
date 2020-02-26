@@ -18,7 +18,7 @@ The idea came to be to build a prototype to promote financial literacy. A redesi
 
 So how are we doing in teaching financial literacy, anyway? Well it turns out the US has been on a steady decline since 2002 from a global stage. That's not good. It's been dropped from school curriculums and parents have limited modern tools to help tell this story. This illuminates an opportunity in educating the community in what is seemingly a starved market. 
 
-![Gen 2 on workbenck](https://michaelmassie.com/assets/img/wokbenchsitter.jpg)
+[Gen 2 on workbenck](https://michaelmassie.com/assets/img/workbenchsitter.jpg)
 
 So here we are; an IoT Piggy Bank that connects to a mobile app that parents can control to show savings over up to four goals - save, spend, invest and donate (based off a popular savings teaching model). We baked in tools like allowance and weighted goals - so that money that goes into savings doesn't equally go toward college and a new game console. And now when Grandma and Grandpa give money for a birthday, holiday etc, even if it was sent digitally to the parent, the child can see it represented in their Piggy Bank.
 
