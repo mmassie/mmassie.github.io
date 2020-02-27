@@ -18,7 +18,7 @@ I didn't need to look much further than looking at the trends in currency and ho
 
 Additionally, we have a young daughter at home and my wife and I just happen to be going over our investment options to put her thru college around the same time. With this research in the office, combined with what we were doing in our own home, one more thought came to mind: Could something like this work better to a younger audience?
 
-Could we marry these ideas together with the concepts like Deferred Gratification - like the Marshmallow Test (link) - to see how an Ambient Orb-like glanceable UI could illuminate a positive experience on saving.
+Could we marry these ideas together with the concepts like Deferred Gratification - like the Marshmallow Test [link](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) - to see how an Ambient Orb-like glanceable UI could illuminate a positive experience on saving.
 
 The idea came to be to build a prototype to promote financial literacy. A redesign of the iconic piggy bank for an age where currency is becoming less and less tangible, making visualizing savings even harder, not just for adults but also children.
 
