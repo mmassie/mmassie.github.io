@@ -4,7 +4,7 @@ tags: prototype
 image: https://michaelmassie.com/assets/img/Gent4AtOffice.jpg
 ---
 
-With a late finish close out to the 2019 year, I was awarded a Patent for some work I've been doing on a side project here at Northwestern Mutual, and now finally able to share.
+With a late finish close out to the 2019 year, I was awarded a patent for some work I've been doing on a side project here at Northwestern Mutual, and now finally able to share.
 
 I made a new kind of Piggy Bank; one for a digital age and an increasingly currency-less society.
 
