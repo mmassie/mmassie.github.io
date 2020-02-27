@@ -33,7 +33,7 @@ So here we are; an IoT Piggy Bank that connects to a mobile app that parents can
 
 ![Gen 2 on workbenck](https://michaelmassie.com/assets/img/workbenchsitter.jpg)
 
-![Workbench Madness](https://michaelmassie.com/assets/imgworkbenchmidmadness.jpg)
+![Workbench Madness](https://michaelmassie.com/assets/img/workbenchmidmadness.jpg)
 
 
 The original design started on a Raspberry Pi but with the help of peers (all thanks below) it was recognized that we’d have to snub out a lot of extra services. So the build pivoted to [Particle's Photon](https://www.particle.io/) board offering better ability to scale and also cloud management. A custom PCB board was printed in order to hold the LED banks and then some tweaks and touches in case design (more on that below). More recently I added a Passive Infrared Sensor (PiR) to wake the device when there is movement in front of it. Don't worry, we also added wake/sleep hour settings in the app quickly after running some home tests. The rest is fairly straight forward, cloud services to manage state of the app and piggy bank. For connections to finances it’s relying on “sneaker banking” - aka the parents have to move the money in their bank of choice manually.
