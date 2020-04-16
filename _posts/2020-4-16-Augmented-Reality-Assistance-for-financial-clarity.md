@@ -5,7 +5,9 @@ image: https://michaelmassie.com/assets/img/kittyCardt3.gif
 
 ---
 
-Recently a pretty fun video popped up [YouTube Link](https://www.macrumors.com/2020/04/14/apple-card-ar-concept/) around using Apple's AR to illuminate transactions providing better clarity and transparency. While novel in concept with today's technology - _see: holding up your iPhone to look at your card_ - the reality is much trickier... beyond being more steps than opening the Wallet App.
+Recently a pretty fun video popped up [YouTube Link](https://www.macrumors.com/2020/04/14/apple-card-ar-concept/) around using Apple's AR to illuminate transactions providing better clarity and transparency. 
+
+While novel in concept with today's technology - _see: holding up your iPhone to look at your card_ - the reality is much trickier... beyond it just even being more steps than opening the Wallet App.
 
 Roughly 2 years ago, a teammate, Tony, and myself here on Northwestern Mutual's R&D team cracked open a developer edition Microsoft HoloLens and ran some similar experiments.
 
@@ -27,7 +29,7 @@ Granted this tech is all about 5 years out, but today's minimalist Apple Card pr
 
 ## What was left?
 
-Where we did stop short and I wish we hadn't was to design in tiers of content. When the HoloLens recognizes the wallet, you get a holistic view of your information, the 1000 ft view, and the current state of your spending goals. When you pull out a loyalty card, credit card, etc., the information drills down to only the content in that account.
+Where we did stop short and I wish I hadn't was to design in a few tiers of content. When the HoloLens recognizes the wallet, you get a holistic view of your information, the 1000 ft view, and the current state of your spending goals. When you pull out a loyalty card, credit card, etc., the information drills down to only the content in that account.
 
 From prior work with Ringly and the Digipig and on a more near time opportunity, I also stopped short of embedding a single LED into a wallet that could provide a temperature color spectrum based on daily/weekly spending goals to inform users with a glanceable UI.
 
