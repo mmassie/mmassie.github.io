@@ -27,7 +27,7 @@ Granted this tech is all about 5 years out, but today's minimalist Apple Card pr
 
 ## What was left?
 
-Where we did stop short and I wish we hadn't was to design in tiers of content. When the HoloLens recognizes the wallet, you get a holistic view of your information, the 100' view, and the current state of your spending goals. When you pull out a loyalty card, credit card, etc., the information drills down to only the content in that account.
+Where we did stop short and I wish we hadn't was to design in tiers of content. When the HoloLens recognizes the wallet, you get a holistic view of your information, the 1000 ft view, and the current state of your spending goals. When you pull out a loyalty card, credit card, etc., the information drills down to only the content in that account.
 
 From prior work with Ringly and the Digipig and on a more near time opportunity, I also stopped short of embedding a single LED into a wallet that could provide a temperature color spectrum based on daily/weekly spending goals to inform users with a glanceable UI.
 
