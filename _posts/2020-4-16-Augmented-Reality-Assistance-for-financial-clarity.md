@@ -23,8 +23,11 @@ On the topic of visual noise, the current iterations of AR goggles need visually
 
 Content placement created another design issue. Where does it render that it won't obstruct the user and their primary task? For example, our first prototype had the pop-up to the right of the card and chip. Worked fine just looking, but when going thru some interactive play the pop-up blocked the ability to see the card reader when the user would want to pay. 
 
+Granted this tech is all about 5 years out, but today's minimalist Apple Card probably won't cut it for enough recognizable data points. Based on these timelines too, will the life of the current credit card and timeline of AR shrunk to standard glasses ever intersect? Never-the-less it was an exciting project to test out and conceptualize.
+
+## What was left?
+
 Where we did stop short and I wish we hadn't was to design in tiers of content. When the HoloLens recognizes the wallet, you get a holistic view of your information, the 100' view, and the current state of your spending goals. When you pull out a loyalty card, credit card, etc., the information drills down to only the content in that account.
 
 From prior work with Ringly and the Digipig and on a more near time opportunity, I also stopped short of embedding a single LED into a wallet that could provide a temperature color spectrum based on daily/weekly spending goals to inform users with a glanceable UI.
 
-Granted this tech is all about 5 years out, but today's minimalist Apple Card probably won't cut it for enough recognizable data points. Based on these timelines too, will the life of the current credit card and timeline of AR shrunk to standard glasses ever intersect? Never-the-less it was an exciting project to test out and conceptualize.
