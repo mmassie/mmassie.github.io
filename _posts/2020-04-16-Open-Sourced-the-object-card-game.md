@@ -1,4 +1,10 @@
-I'm excited to share that Northwester Mutual has given me the OK to Open Source the Object Class Association card game.
+---
+layout: post
+image: https://michaelmassie.com/assets/img/gameplay.jpg
+
+---
+
+I'm excited to share that Northwestern Mutual has given me the OK to Open Source the Object Class Association card game.
 
 ![Current Version](https://michaelmassie.com/assets/img/gameplay.jpg)
 
