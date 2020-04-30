@@ -5,7 +5,7 @@ image: https://michaelmassie.com/assets/img/kittyCardt3.gif
 
 ---
 
-Recently a pretty fun video popped up ([YouTube Link](https://www.macrumors.com/2020/04/14/apple-card-ar-concept/))around using Apple's AR to illuminate transactions to provide better clarity and transparency. 
+Recently a pretty fun video popped up ([YouTube Link](https://www.macrumors.com/2020/04/14/apple-card-ar-concept/)) around using Apple's AR to illuminate transactions to provide better clarity and transparency. 
 
 While novel in concept with today's technology - _see: holding up your iPhone to look at your card_ - the reality is much trickier... beyond it just even being more steps than opening the Wallet App.
 
