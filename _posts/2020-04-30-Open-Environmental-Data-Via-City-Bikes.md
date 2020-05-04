@@ -1,6 +1,7 @@
 ---
 layout: post
 image: https://michaelmassie.com/assets/img/sustainabilityBike.jpg
+tags: bikes city
 ---
 ![Copenhagen Wheel](https://michaelmassie.com/assets/img/sustainabilityBike.jpg)
 (via http://senseable.mit.edu/copenhagenwheel/urbanData.html)
