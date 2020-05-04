@@ -10,4 +10,4 @@ In keeping an eye on the sizable dip in air pollution across cities during the C
 
 Building a small prototype to clip, and *lock, to city share bikes would be fairly easy. Getting the data out creates new challenges unless you can convince the rider to download an app to use as an internet bridge. I'm definitely interested in at the least making a prototype and look at what a grass roots open data effort would entale. In the least it's good practice.
 
-    - curious how quick these things would get cut off the bikes by either the service techs or people looking to hack it for parts.
+* curious how quick these things would get cut off the bikes by either the service techs or people looking to hack it for parts.
