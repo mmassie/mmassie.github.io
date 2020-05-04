@@ -23,7 +23,7 @@ On the topic of visual noise, the current iterations of AR goggles need visually
 
 ![AR Recognition](https://michaelmassie.com/assets/img/kittycardrecognition.png)
 
-Content placement created another design issue. Where does it render that it won't obstruct the user and their primary task? For example, our first prototype had the pop-up to the right of the card and chip. Worked fine just looking, but when going thru some interactive play the pop-up blocked the ability to see the card reader when the user would want to pay. 
+Content placement created another design issue. Where does it render that it won't obstruct the user and their primary task? For example, on the first prototype I had the pop-up to the right of the card and chip. Worked fine just looking, but when going thru some interactive play the pop-up obstructed the ability to see the card reader when the user would want to pay. 
 
 Granted this tech is all about 5 years out, but today's minimalist Apple Card probably won't cut it for enough recognizable data points. Based on these timelines too, will the life of the current credit card and timeline of AR shrunk to standard glasses ever intersect? Never-the-less it was an exciting project to test out and conceptualize.
 
