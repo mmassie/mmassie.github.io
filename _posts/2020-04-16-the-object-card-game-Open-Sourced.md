@@ -12,6 +12,6 @@ The goal of this effort was to make an engaging card game around data hierarchy 
 
 More at the [Github Page](https://github.com/northwesternmutual/ObjectCardGame).
 
-
-
 Please consider contributing the the game mechanics. We're close but it's still a little rough on the onboarding.
+
+Also, here is a storefront I propped up in the event you want to [buy a deck for yourself](https://www.makeplayingcards.com/sell/marketplace/objects-card-game.html)
