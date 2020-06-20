@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: bike
+tags: art
 image: https://michaelmassie.com/assets/img/NighthawksRemixOnWall.jpeg
 ---
 
