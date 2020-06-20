@@ -1,8 +1,8 @@
-—
+——-
 layout: post
 tags: bike
-image: https://michaelmassie.com/assets/img/backrack.jpg
-—
+image: https://michaelmassie.com/assets/img/NighthawksRemixOnWall.jpeg
+——-
 
 ![](/assets/img/NighthawksRemixOnWall.jpeg)
 ![](/assets/img/NighthawksRemixCloseUp.jpeg)
