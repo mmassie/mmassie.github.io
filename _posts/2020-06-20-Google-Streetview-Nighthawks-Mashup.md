@@ -7,7 +7,7 @@ image: https://michaelmassie.com/assets/img/NighthawksRemixOnWall.jpeg
 ![](/assets/img/NighthawksRemixOnWall.jpeg)
 ![](/assets/img/NighthawksRemixCloseUp.jpeg)
 
-Finally, after years this project is complete. A couple years ago I got obsessed with designing Google Streetview over famous classic paintings. Edward Hopper’s [Nighthawks](https://en.wikipedia.org/wiki/Nighthawks_(painting) seemed a pretty easy early choice. I tried some other classics of Paris streets although far too often the viewpoint was understandably painted from the sidewalk; but Hopper’s looks a little more like it could have been taken from a Streetview car.
+Finally, after years this project is complete. A couple years ago I got obsessed with designing Google Streetview over famous classic paintings. Edward Hopper’s [Nighthawks](https://en.wikipedia.org/wiki/Nighthawks_(painting)) seemed a pretty easy early choice. I tried some other classics of Paris streets although far too often the viewpoint was understandably painted from the sidewalk; but Hopper’s looks a little more like it could have been taken from a Streetview car.
 
 After some extensive searching I couldn’t pinpoint if this was an actually location, so I settled on NYC (Where Hopper lived) and finding an acute intersection with similar buildings. At that point I grabbed the highest resolution image of Hopper’s work and took to Adobe Illustrator to reconstruct all the UI Google Maps lays on the screen.
 
