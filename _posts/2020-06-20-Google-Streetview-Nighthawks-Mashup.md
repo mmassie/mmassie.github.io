@@ -11,7 +11,7 @@ Finally, after years this project is complete. A couple years ago I got obsessed
 
 After some extensive searching I couldn’t pinpoint if this was an actually location, so I settled on NYC (Where Hopper lived) and finding an acute intersection with similar buildings. At that point I grabbed the highest resolution image of Hopper’s work and took to Adobe Illustrator to reconstruct all the UI Google Maps lays on the screen.
 
-![](assets/img/NighhawksOG.jpeg)
+![](/assets/img/NighhawksOG.jpeg)
 
 This is kind of where I thought I was done. I blogged about it and then archived it. Last year I was scrolling thru twitter and some people were talking about commisioning a photo to be painted in China. They had shared some pics and it was hilariously amazing. One I saw they mentioned the name of the [site](https://www.buy-painting.com/) they ordered thru, it was off to the archives to place an order. Finally this week a frame arrived and I was able to get it up on the wall for all to enjoy.
 
