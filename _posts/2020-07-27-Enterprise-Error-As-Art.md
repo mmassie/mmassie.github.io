@@ -3,7 +3,7 @@ layout: post
 tags: art
 image: https://michaelmassie.com/assets/img/errorArt.png
 ---
-### From a chaotic start, illuminating disorder to clarify upon resolution
+### From a chaotic start, illuminating disorder to clarity upon resolution
 
 ** Work in Progress **
 
