@@ -1,7 +1,8 @@
 ---
 layout: post
 tags: art
-image: https://michaelmassie.com/assets/img/errorArt.png
+image: https://michaelmassie.com/assets/img/errorArt.png)
+
 ---
 ### From a chaotic start, illuminating disorder to clarity upon resolution
 
