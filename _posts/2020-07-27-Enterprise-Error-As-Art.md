@@ -23,6 +23,7 @@ The concept came from a few sources. First, we were discussing what a tech + art
 
 ### How does it work?
 Data collected over [time] to establish composition to play during “open hours”. Data is collected in a simple boolean database capturing if each entry over times was entered TRUE or FALSE.
+
 0 - Standard entry falls at 1x rate
 1 - Error entry falls at [random] rate
 
