@@ -2,11 +2,10 @@
 layout: post
 tags: art
 image: https://michaelmassie.com/assets/img/robotMusician.jpg
-
 ---
-### From a chaotic start, illuminating disorder to clarity upon resolution
-
 ## ** Work in Progress **
+
+### From a chaotic start, illuminating disorder to clarity upon resolution
 
 Recently left feeling inspired to work on some art again after picking up [Speculative Everything](https://mitpress.mit.edu/books/speculative-everything), I decided to start building cases for a project I had conceptualized a year ago. Although in contradiction to the book and its focus on "Radical Design", it is art to bring focus to a corporate concern. 
 
