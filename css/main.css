@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     border: 0;
-    font: 14px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font: 16px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
     color: rgb(22, 22, 22);
     background:#E8E9E9;
 	font-weight: 300;
@@ -140,6 +140,7 @@ a.subURL:hover {
 #bio {
 	width: 100%;
 	margin-top: -10px;
+	font-size: 18px;
 }
 
 ::selection {
