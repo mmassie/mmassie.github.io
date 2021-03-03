@@ -29,7 +29,7 @@ article	{
 	display: block;
 	position: relative;
     padding: 110px 40px 40px;
-	padding-left: 30%;
+	padding-left: 25%;
 	padding-right: 5%;
     line-height: 1.8em;
 	color: #434343;
@@ -68,6 +68,18 @@ h2 {
 	padding-right: 15px;
 	padding-bottom: 10px;
 	padding-top: 10px;
+}
+
+#tag {
+	outline: solid;
+	background-color: #565656;
+	color: white;
+	font-size: .8em;
+	outline-color: #565656;
+	-moz-outline-radius: 6px;
+	padding: 2px;
+	line-height: 2.2em;
+	margin-right: 4pt;
 }
 
 h2 {
@@ -110,7 +122,7 @@ a.subURL:hover {
 }
 
 #title {
-	font-size: 1.5em;
+	font-size: 2em;
 	font-weight: 400;
 	line-height: 1.2em;
     padding-bottom: 50px;
@@ -151,7 +163,7 @@ a.subURL:hover {
     
     article {
         padding: 40px 40px 40px;
-		width: 60%;
+		width: 80%;
 		font-size: 1.4em;
     }
     
@@ -169,7 +181,7 @@ a.subURL:hover {
     
     #box {
 	float: left;
-	width: 40%;
+	width: 20%;
     }
 
 }
