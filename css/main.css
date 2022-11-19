@@ -4,7 +4,7 @@ body {
     border: 0;
     font: 16px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
     color: rgb(22, 22, 22);
-    background:#E8E9E9;
+    background:#E9DFCA;
 	font-weight: 300;
 	padding: 0;
 	letter-spacing: 1.2px;
@@ -98,7 +98,7 @@ ul.nav-tabs {
 
 a:link, a:visited{
 	color: #3B3B3B;
-    background: #E8E9E9;
+    background: #E9DFCA;
 	text-decoration: none;
 	padding: 1px;
 }
@@ -113,7 +113,7 @@ a:hover {
 a.subURL:link, a.subURL:visited{
 	text-decoration: none;
 	padding: 4px;
-    background: #E8E9E9;
+    background: #E9DFCA;
 }
 
 a.subURL:hover {
@@ -144,7 +144,7 @@ a.subURL:hover {
 }
 
 ::selection {
-	color: #D4D6C9;
+	color: #E9DFCA;
 	background: #C188BB; /* Safari */
 	}
 ::-moz-selection {
