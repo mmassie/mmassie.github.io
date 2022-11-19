@@ -3,11 +3,8 @@ layout: post
 tags: bike, electric, project
 
 ---
-## Electrifying the Cargo Bike
 
 ![Finished Bike](https://michaelmassie.com/assets/img/bike05.JPG)
-
-
 We've been constantly in search of mobility soltuions that allow us to be a one car family. For backgoround, during the pandemic I shed my Subaru; with work at home and home schooling (for our 6yr old) the transition to one car was easy. When we were asked to start coming back into the office and extracurricular eactivities started spinning back up we definitely started feeling the pains of one car. We did end up folding and getting a second car again but this time opting for electric. As a bike family we also had an accoustic [Xtracycle Cargo Bike](https://www.xtracycle.com/) (they have since moved to e-only options) for kid carrying, errand running, haulin-hauler in the garage. We love this bike but with size, effort due to weight, it more gets sidelined during the week and used for weekend rides as a whole group to the farmer's market, brunch, etc.
 
 In researching options, we chose to pick up a RAD bike. We had tested one a couple years back when a couple got a flat in front of our house and we took them in to help repair. After repairs, we got a demo ride and it was impressive. It solved an amplified problem on a cargo bike... they're heavy even when not loaded up with a kid, and a dog, and groceries, etc. So we opted for the [RAD Runner](https://www.radpowerbikes.com/collections/electric-cargo-utility-bikes/products/radrunner-electric-utility-bike) to keep cargo capability, kid carry and shorter wheel base to be able to be loaded on a tail hitch rack. The shorter frame was felt quickly - with a kid strapped in the Yepp bike seat we were already out of room -  and the smaller wheels changed the riding style considerably. Electric fucntionality was great, but we compromised too much of everything else we needed.
@@ -25,6 +22,7 @@ Ordered the kit in similar sizing to the one that was inlcuded in the RAD bike a
 
 
 The install was clean and straight forward. The bottom bracket mid-mount motor was easy to install and kept weight distribution comfortable and natural feeling. I did, somehow, sever the speedometer cable during install and had to subsequenly pull out the oscilloscope to troubleshoot what looked like a quick solder and shrink tube fix. The frame extension from behind the seat tube left plenty of storage room for the battery and when complete the unit really blended in with the bike - knowing it's mostly a necessary evil, downtube battery mounts just still look so out of place to me. Being it a cargo bike i did have to order up some extra extensions for some of the cabling that has to run all the way to the rear of the bike and a tail light wasn't inlcuded so i still split the line to front light and do some hacking to get a proper lighting in place. Cable management is oddly satisfying.
+
 ![Battery with camble management](https://michaelmassie.com/assets/img/bike04.JPG)
 
 We plan to stay electric for transportation and hopefully back down to one car now with the addition of this sweet upgrade.
