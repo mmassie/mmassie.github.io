@@ -3,7 +3,6 @@ layout: post
 tags: project, tech, app
 image: https://michaelmassie.com/assets/img/trailpostApp.JPG
 ---
-## Trailpost - Lambda API Backend to Trailpost Digital Assistant
 
 ![Traipost](https://michaelmassie.com/assets/img/trailpostApp.JPG)
 
