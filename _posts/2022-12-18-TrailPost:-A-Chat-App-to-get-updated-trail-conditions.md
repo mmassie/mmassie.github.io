@@ -14,8 +14,7 @@ I've been overdue to get into a coding project that I can dig into AWS Lambda, C
 
 This project connected to the Trailforks API in order to get the most recent updates on the trails. I then added a list of my favorite trails to the Google Assistant project that can pass thru the intents and I can then return results from Trailforks. As of now, not many people update trail conditions, but that was half the point - it was about the project and maybe even then promote people to update reports.
 
-![GitRepo](https://michaelmassie.com/assets/img/gitrepoTrailpost.jpg)
-[Git Repo](https://github.com/mmassie/trailpostBackend)
+[![Git Repo](https://michaelmassie.com/assets/img/gitrepoTrailpost.jpg)](https://github.com/mmassie/trailpostBackend)
 
 ### TODO
 
