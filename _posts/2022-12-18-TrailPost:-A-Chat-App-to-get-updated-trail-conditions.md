@@ -8,7 +8,7 @@ image: https://michaelmassie.com/assets/img/trailpostApp.JPG
 
 Started a project a couple months ago and this weekend it's finally in a working Beta. 
 
-This is Trailpost, a conversation interface connection to [Trailforks](https://www.trailforks.com/). Currently it works with Google Assistant, but the end goal is having it running on Alexa, later, in time to run it in a Rivian (delivery date: April-June).
+This is **Trailpost, a conversation interface connection to [Trailforks](https://www.trailforks.com/)**. Currently it works with Google Assistant, but the end goal is having it running on Alexa, later, in time to run it in a Rivian (delivery date: April-June).
 
 I've been overdue to get into a coding project that I can dig into AWS Lambda, Chat Apps/NUI, and APIs; this seemed the perfect canidate. Building in AWS allowed me to use what we already have in the home - [Google Digital Assistant](https://developers.google.com/assistant) - and then expand to Alexa for car connectivity. Now I can ask about my favorite trails in the morning and check to see what their most recent condition reports are before heading out to ride.
 
