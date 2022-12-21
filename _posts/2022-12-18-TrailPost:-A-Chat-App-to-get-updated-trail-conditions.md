@@ -24,4 +24,4 @@ I have some 7 segment LED displays too that I may look to incorporate into a phy
 
 ![Trailpost Sketch](https://michaelmassie.com/assets/img/trailpostSketch.png)
 
-Holiday projects are the best!
+Home for the Holidays!
