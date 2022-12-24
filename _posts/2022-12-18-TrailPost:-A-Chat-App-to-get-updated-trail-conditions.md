@@ -18,7 +18,7 @@ This project connected to the Trailforks API in order to get the most recent upd
 
 ### TODO
 
-Now that it's up and working I'll now start adding some extra features, like a human readable (from EPOC) time stamp of when the trail was last updated and then local weather for a little more accuracy so I know how to dress before I head out.
+Now that it's up and working I'll now start adding some extra features, like a human readable time stamp of when the trail was last updated and then local weather for a little more accuracy so I know how to dress before I head out.
 
 I have some 7 segment LED displays too that I may look to incorporate into a physical version based off the original concept sketches I had made below:
 
