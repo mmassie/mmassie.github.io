@@ -16,12 +16,12 @@ Experimenting with an NFC tag to expedite the setup interaction between the user
 
 ![Lamp Layout](https://michaelmassie.com/assets/img/ooma/GPSlamp.png)
 
-![OOMA Guts](https://michaelmassie.com/assets/img/ooma/oomaGuts.jpg)
 
 ## Current Status:
 1. Started programming the Arduino to point toward the a Latitude account.
 2. Working on lighting options to illuminate the white GPS shaped screen in either a blue or purple evenly distributed light.
 
-## Update
+
+## Update:
 Once Google Latitude was shuttered so was the ease of implementing the lat/long tracking of a device so it's mothballed.
 
