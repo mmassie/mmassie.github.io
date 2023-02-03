@@ -1,12 +1,12 @@
 ---
 layout: post
 tags: project
-image: https://michaelmassie.com/assets/img/SAonIphone.png
+image: https://michaelmassie.com/assets/img/SmartAlarmWebsite.png
 ---
 
 From napkin drawing of a physical alarm clock in 1999, to a release in the App Store in 2010,  handling all aspects of product except programming. The Smart Alarm is an alarm clock that is designed to watch the weather in your area while you sleep and wake you at different times according to your predefined terms - (ex: Setting the alarm for 30 minutes earlier when snow falls over 1 foot).
 
-![Smart Alarm Product Shot](https://michaelmassie.com/assets/img/SAonIphone.png)
+![Smart Alarm Product Shot](https://michaelmassie.com/assets/img/SmartAlarmWebsite.png)
 
 
 When the iPhone released a developers kit, it finally allowed me the opportunity to access the hardware necessary to create an alarm clock without having to build a separate device.
