@@ -30,4 +30,4 @@ An overlay of black, was later added, that the user could adjust the transparenc
 _High fidelity mock-up of a  “Slide to turn off” feature that reveals the daily weather forecast on the action of turning off the audible alert - click for animated demo - not yet available_
 
 ### Archive
-Homepage: https://massie.io/smartalarm/index.html
+Homepage: [https://massie.io/smartalarm/index.html](https://massie.io/smartalarm/index.html)
