@@ -18,8 +18,8 @@ Experimenting with an NFC tag to expedite the setup interaction between the user
 
 
 ## Current Status:
-1. Started programming the Arduino to point toward the a Latitude account.
-2. Working on lighting options to illuminate the white GPS shaped screen in either a blue or purple evenly distributed light.
+- Started programming the Arduino to point toward the a Latitude account.
+- Working on lighting options to illuminate the white GPS shaped screen in either a blue or purple evenly distributed light.
 
 
 ## Update:
