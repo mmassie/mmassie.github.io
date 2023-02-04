@@ -42,6 +42,9 @@ Throughout this journey, it's really been a coin toss about approach for a devic
 
 That all being said, for now I am appreciating a major patent milestone as well as the ability to share this work.
 
+
+
+
 ### Final Update
 I got a box of the final prototypes that went out to a pilot group to shelf, most likely indefintely. It was a fun run and a ton was learned. That'll do, pig. That'll do.
 ![One Last Pluggin](https://michaelmassie.com/assets/digipig/lastshot.png)
