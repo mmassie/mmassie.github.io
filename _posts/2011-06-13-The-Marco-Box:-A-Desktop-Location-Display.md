@@ -18,4 +18,3 @@ I saw the opportunity for being able to tell co-workers a little more than an em
 
 Roughly ~90% of the empty desks around me had an orphaned monitor. Most every empty desk had a blank monitor and I was struggling with a problem on what kind of LCD display to use… enter Raspberry Pi. Now the idea is to take over that monitor when the users are away. Most external monitors that use had offered multiple inputs, so a simple tap on the input button and Marco can display anything we’d like from our base of geo trap triggered messages, foursquare check-ins to even displaying a message that we text to it – “Elvis has left the building”
 
-![Hello Marco](https://michaelmassie.com/assets/img/themarcobox/helloMarco.png)
