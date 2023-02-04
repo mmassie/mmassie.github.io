@@ -3,7 +3,7 @@ layout: post
 tags: project
 image: https://michaelmassie.com/assets/img/UberTwitter/utbutton.png
 ---
-![UberTwitter Early Comps](https://michaelmassie.com/assets/img/UberTwitter/utbutton.png)
+![New UberTwitter App Icon](https://michaelmassie.com/assets/img/UberTwitter/utButton.png)
 
 Redesigned the user interface, user experience and consulted in the strategic direction of application features for version 1.0 release. ÜberTwitter which is now ÜberSocial, at the time of deployment was the most popular Twitter application in the world, serving over 1.2 million users, and 2nd most downloaded application in the BlackBerry App World.
 
