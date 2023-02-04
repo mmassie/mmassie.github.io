@@ -7,7 +7,7 @@ image: https://michaelmassie.com/assets/img/UberTwitter/utbutton.png
 
 Redesigned the user interface, user experience and consulted in the strategic direction of application features for version 1.0 release. ÜberTwitter which is now ÜberSocial, at the time of deployment was the most popular Twitter application in the world, serving over 1.2 million users, and 2nd most downloaded application in the BlackBerry App World.
 
-Contracted, as Head of Design, to redesign the user interface, user experience and assisted in strategic consulting in the expansion of application features for the upcoming version 1.0 release.
+I was borught on as Head of Design, to redesign the user interface, user experience, and assist in strategic direction in the expansion of application features for the upcoming version 1.0 release.
 
 ![UberTwitter Early Comps](https://michaelmassie.com/assets/img/UberTwitter/uberredesignmocks.jpg)
 
