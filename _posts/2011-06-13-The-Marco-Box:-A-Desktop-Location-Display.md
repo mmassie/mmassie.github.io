@@ -8,8 +8,6 @@ image: https://michaelmassie.com/assets/img/themarcobox/helloMarco.png
 
 Creating with 2 Developers in working with a Raspberry Pi and Google Latitude, Marco is an open source desktop device that displays a message based on its owners physical location.
 
-![Hello Marco](https://michaelmassie.com/assets/img/themarcobox/helloMarco.png)
-
 Marco allows the ability for users to create virtual fences around geographical locations or place, and then tie them to outputs displayed on the screen. - e.g. “Out of the Office”, “In the Downtown Campus”, “Gone Fishing” or even “Elvis has left the building”. To create a frictionless experience we leveraged Google Latitude to get your physical location on a map without the need for user intervention to change and update the display.
 
 ![Marco Homepage](https://michaelmassie.com/assets/img/themarcobox/marcoHomepage.png)![Marco Setting UI](https://michaelmassie.com/assets/img/themarcobox/marcoDisplay.jpg)
