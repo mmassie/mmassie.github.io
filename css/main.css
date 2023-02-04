@@ -28,8 +28,8 @@ body {
 article	{
 	display: block;
 	position: relative;
-    padding: 110px 40px 40px;
-	padding-left: 25%;
+    padding: 130px 40px 40px;
+	padding-left: 15%;
 	padding-right: 5%;
     line-height: 1.8em;
 	color: #434343;
@@ -44,7 +44,7 @@ aside {
     width: 20%;
     height: 100%;
 	overflow: hidden;
-	min-width: 250px;
+	min-width: 200px;
 }
 
 p {
