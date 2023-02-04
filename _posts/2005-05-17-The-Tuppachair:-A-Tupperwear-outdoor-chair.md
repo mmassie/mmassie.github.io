@@ -10,4 +10,5 @@ The Tuppa Chair was a finalist for a competition by Tupperware. The Translations
 ### Update: 
 Building out some detailed blueprints with metal ring inlays to support the weight and structure. I am still toying with the idea of building a full size prototype of this chair. With a plastic coating and closing lid I think it makes a great option for modern outdoor furniture. Additionally, the baseless option may be a great product as a kids bedroom chair, plastic is safe of sharp edges and falls, lid can close to hold toys for clean up. If you’re interested in further updates about this project, hit me with an email at: tuppachair [at] michaelmassie.com
 
-![Final Prototype](https://michaelmassie.com/assets/img/tuppachair/shapeimage.png)
+![Final Prototype](https://michaelmassie.com/assets/img/tuppachair/tuppaPrototype.png)
+_Finished Prototype_
