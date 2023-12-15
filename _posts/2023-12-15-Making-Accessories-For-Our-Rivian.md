@@ -14,6 +14,8 @@ There is a cutout in the hanger arm so the USB-C is accessable as well as the ha
 
 https://www.thingiverse.com/thing:6360099
 
+![Hook Image 2](https://michaelmassie.com/assets/img/ipadhook2.png)
+
 Also if you don't have a 3D printer, I'd recommend [Shapeways](https://www.shapeways.com/).
 
 Lemme know if you'd see any opportunities for improvement.
