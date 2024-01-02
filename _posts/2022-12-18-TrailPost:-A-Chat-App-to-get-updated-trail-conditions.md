@@ -14,6 +14,11 @@ As an intial prototype I dropped the Trailpost widget into a Chrome Extension to
 ![Chrome Extension](https://michaelmassie.com/assets/img/chromeextension.png)
 
 
+The data getting posted was few and far between but the overall experience was very convenient and sometimes bothersome to see great trail conditions while sitting at my desk. 
+
+
+
+
 I've been overdue to get into a coding project that I can dig into AWS Lambda, Chat Apps/NUI, and APIs for some time; this seemed the perfect canidate. Building in AWS allowed me to use what we already have in the home - [Google Assistant](https://developers.google.com/assistant) - and then expand to Alexa for car connectivity. Now I can ask about my favorite trails in the morning and check to see what their most recent condition reports are before heading out to ride/run. 
 
 This project connected to the Trailforks API in order to get the most recent updates on the trails. I then added a list of my favorite trails to the Google Assistant project that can pass thru the intents and I can then return results from Trailforks. As of now, not many people update trail conditions, but that was half the point - it was about the project and maybe even then promote people to update reports.
