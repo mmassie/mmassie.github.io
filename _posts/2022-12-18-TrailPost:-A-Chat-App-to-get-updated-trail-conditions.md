@@ -25,15 +25,21 @@ This project connected to the Trailforks API in order to get the most recent upd
 
 [![Git Repo](https://michaelmassie.com/assets/img/gitrepoTrailpost.jpg)](https://github.com/mmassie/trailpostBackend)
 
-### TODO
 
-Now that it's up and working I'll now start adding some extra features, like local weather for a little more accuracy so I know how to dress before I head out.
 
-## UPDATE
+### UPDATE
 
 With Goodle Conversational Actions shuttered I am currently moving everyhing to just Alexa.
 
 
+
+### TODO
+
+Now that it's up and working I'll now start adding some extra features, like local weather for a little more accuracy so I know how to dress before I head out.
+
+
+
+### Hardware Build
 
 I have some 7 segment LED displays too that I may look to incorporate into a physical version based off the original concept sketches I had made below:
 
