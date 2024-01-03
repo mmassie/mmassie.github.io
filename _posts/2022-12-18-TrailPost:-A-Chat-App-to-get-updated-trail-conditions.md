@@ -27,13 +27,13 @@ This project connected to the Trailforks API in order to get the most recent upd
 
 
 
-### UPDATE
+### Update
 
 With Goodle Conversational Actions shuttered I am currently moving everyhing to just Alexa.
 
 
 
-### TODO
+### To-Do
 
 Now that it's up and working I'll now start adding some extra features, like local weather for a little more accuracy so I know how to dress before I head out.
 
