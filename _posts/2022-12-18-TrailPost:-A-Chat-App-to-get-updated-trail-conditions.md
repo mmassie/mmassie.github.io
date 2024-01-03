@@ -10,7 +10,7 @@ Started a project a couple of months ago and this weekend it's finally in a work
 
 This is **Trailpost**, a conversational interface connection to check on trail conditions (Powered by [Trailforks](https://www.trailforks.com/)). Currently it works with Google Assistant, but the end goal is having it running on Alexa in time to run it in a Rivian (delivery date: April-June). No real rocket science here, it's a fairly straighforward build, but fun none-the-less.
 
-As an intial prototype I dropped the Trailpost widget into a Chrome Extension to get a feel for how often trails are updating and a general feel for usefullness of the data:
+As an intial prototype I dropped the Trailpost widget into a Chrome Extension to get a feel for how often trails are updating and a general feel for usefulness of the data:
 ![Chrome Extension](https://michaelmassie.com/assets/img/chromeextension.png)
 
 
@@ -30,23 +30,22 @@ This project connected to the Trailforks API in order to get the most recent upd
 
 
 
-
-
-
-
-### Update
+### Updates
 
 With Goodle Conversational Actions shuttered I am currently moving everyhing to just Alexa.
+
+
+Hardcoded results to test in a Rivian: https://www.instagram.com/p/CvSUoEmAkP6/ ✅
+
 
 
 
 ### To-Do
 
-Now that it's up and working I'll now start adding some extra features, like local weather for a little more accuracy so I know how to dress before I head out.
+Once ported over I'll now adding some extra features, like local weather for a little more accuracy so I know how to dress before I head out.
 
 
-
-### Hardware Build
+#### Hardware Build
 
 I have some 7 segment LED displays too that I may look to incorporate into a physical version based off the original concept sketches I had made below:
 
