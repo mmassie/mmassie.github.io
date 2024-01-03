@@ -35,7 +35,7 @@ This project connected to the Trailforks API in order to get the most recent upd
 With Goodle Conversational Actions shuttered I am currently moving everyhing to just Alexa.
 
 
-Hardcoded results to test in a Rivian: https://www.instagram.com/p/CvSUoEmAkP6/ ✅
+Hardcoded results to test in a Rivian: [https://www.instagram.com/p/CvSUoEmAkP6/](https://www.instagram.com/p/CvSUoEmAkP6/) ✅
 
 
 
