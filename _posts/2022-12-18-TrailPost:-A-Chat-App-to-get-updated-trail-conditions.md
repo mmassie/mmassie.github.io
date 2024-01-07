@@ -32,22 +32,22 @@ This project connected to the Trailforks API in order to get the most recent upd
 
 ### Updates
 
-* With Goodle Conversational Actions shuttered I am currently moving everyhing to just Alexa.
+1. With Goodle Conversational Actions shuttered I am currently moving everyhing to just Alexa.
 
 
-* Hardcoded results to test in a Rivian: [https://www.instagram.com/p/CvSUoEmAkP6/](https://www.instagram.com/p/CvSUoEmAkP6/) ✅
+2. Hardcoded results to test in a Rivian: [https://www.instagram.com/p/CvSUoEmAkP6/](https://www.instagram.com/p/CvSUoEmAkP6/) ✅
 
 
 
 
 ### To-Do
 
-* Once ported over I'll now adding some extra features, like local weather for a little more accuracy so I know how to dress before I head out.
+1.  Once ported over I'll now adding some extra features, like local weather for a little more accuracy so I know how to dress before I head out.
 
 
 #### Hardware Build
 
-* I have some 7 segment LED displays too that I may look to incorporate into a physical version based off the original concept sketches I had made below:
+2.  I have some 7 segment LED displays too that I may look to incorporate into a physical version based off the original concept sketches I had made below:
 
 ![Trailpost Sketch](https://michaelmassie.com/assets/img/trailpostSketch.png)
 
