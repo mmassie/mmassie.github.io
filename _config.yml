@@ -3,3 +3,5 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 google_analytics: UA-10525263-2
 permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-feed
