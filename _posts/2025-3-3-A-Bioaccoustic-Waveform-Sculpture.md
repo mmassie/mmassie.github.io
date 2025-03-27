@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: project
-image: https://michaelmassie.com/assets/img/themarcobox/helloMarco.png
+
 ---
 
 ![Rex image]
