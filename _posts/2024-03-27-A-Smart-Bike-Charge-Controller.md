@@ -10,10 +10,15 @@ I am not sure why this isnt more standard in ebikes as good battery hygiene is t
 
 Features like:
 1) Check on charge status from phone’s Lock Screen
-2) Set the charge limit to 80% to better extend the life of the bike battery.
+
+2) Set the charge limit to 80% to better extend the life of the bike battery
+
 3) Set charge times
+
 4) Drop charge down to 40% over the winter when it’s less in use
+
 5) Phone notification when charging is complete
+
 
 ![Charge Controller Prototype](https://michaelmassie.com/assets/img/chargeController.jpeg)
 
