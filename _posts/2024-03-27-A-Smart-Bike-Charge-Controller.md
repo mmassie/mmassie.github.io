@@ -9,6 +9,7 @@ tags: bike
 I am not sure why this isnt more standard in ebikes as good battery hygiene is the same as it would be for any EV. Never-the-less, I wanted to bring the same experience that I have with my connected car to the e-bike.
 
 Features like:
+
 1) Check on charge status from phone’s Lock Screen
 
 2) Set the charge limit to 80% to better extend the life of the bike battery
