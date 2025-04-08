@@ -4,7 +4,7 @@ tags: project
 iamge: https://michaelmassie.com/assets/img/oneBreath.jpeg
 ---
 
-![Rex](https://michaelmassie.com/assets/img/rex.jpeg)
+![Rex](https://michaelmassie.com/assets/img/rexArt.jpg)
 
 About seven years ago, close friends, Nick & Mel's, beloved dog, Rex, passed away. He wasn’t just my friend's companion — he was one of my favorite dogs, too. Not long after, Nick asked if I would create a piece of art to honor Rex's memory. I happily agreed.
 
@@ -21,6 +21,4 @@ Rex was an Australian Shepherd with a mix of caramel-colored fur and white marki
 While exploring options, I built a 3D model to prototype different sizes, allowing me to assess its tactile feel and sense of scale. The solid white printed prototype quickly revealed that dark wood would obscure much of the intricate detail and surprisingly, the printed white version didn’t, it provided a new perspective. I decided to integrate dark wood into the base, representing Rex’s coat, while keeping the sculpture itself white to reflect the markings on the back of his neck.
 
 The final piece stands on a pedestal, intentionally abstract at first glance. It rests on a pin, allowing it to be removed and held in hand in its proper orientation. Etched into the base is the original waveform, its outline, and a 2D cross-section of its final shape, along with the words: One Breath – Rex.
-
-![Final](https://michaelmassie.com/assets/img/oneBreath.jpeg)
 
