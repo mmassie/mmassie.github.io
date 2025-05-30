@@ -8,6 +8,8 @@ iamge: https://michaelmassie.com/assets/img/oneBreath.jpeg
 
 About seven years ago, close friends, Nick & Mel's, beloved dog, Rex, passed away. He wasn’t just my friend's companion — he was one of my favorite dogs, too. Not long after, Nick asked if I would create a piece of art to honor Rex's memory. I happily agreed.
 
+![Meet Rex](https://michaelmassie.com/assets/img/meetRex.mov)
+
 For months, I brainstormed ideas. Some felt uninspired, while one concept stood out — but it was beyond my style with a paintbrush. I kept coming back to that idea, yet every time, I reached the same frustrating conclusion: I couldn’t make it the way I could see it. This creative paralysis lasted six years.
 
 Fast forward to last year — I was watching an interview where the subject walked past a massive art piece on a hallway wall. The piece captured the sound waveforms of the indigenous prairie birds chirp where the office building now stood. I've always found waveforms visually compelling, and from that moment, the idea stuck with me. It wasnt till 2 months ago that the idea came to merge this bioaccoustics with the Rex art.
