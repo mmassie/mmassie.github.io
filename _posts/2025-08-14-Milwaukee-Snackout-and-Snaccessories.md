@@ -6,7 +6,6 @@ image: https://michaelmassie.com/assets/img/chillout.jpeg
 
 ![Snackout](https://michaelmassie.com/assets/img/snackout01.jpeg)
 
-Here’s a cleaned-up, more readable version of your blog post while keeping your voice and personality intact. I focused on making the flow smoother, trimming redundancy, and adding subtle structure so it’s easier to follow.
 
 ---
 
