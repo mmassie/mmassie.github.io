@@ -11,15 +11,15 @@ image: https://michaelmassie.com/assets/img/chillout.jpeg
 
 **The Birth of the Snackout**
 
-A couple of months ago, I had an idea: bring a charcuterie “to-go” box to a bike-and-coffee social ride (Scrappy Hour).
+A couple of months ago, I had an idea to bring a charcuterie “to-go” box to a bike-and-coffee social ride (Scrappy Hour).
 
-I’d once seen a Washington MTB outfitter offering something they called “Snackouts” — a Milwaukee Tool Packout Low-Profile Compact Organizer filled with trail snacks like beef jerky, nuts, and trail mix. I loved the concept, but I thought it could go one step further. Why not combine that rugged snack case with the elegance of a charcuterie board? The only missing piece, an actual cutting/serving board.
+I’d once seen a Washington MTB outfitter offering something they called “Snackouts” — a Milwaukee Tool Packout Low-Profile Compact Organizer filled with trail snacks like beef jerky, nuts, and trail mix. I loved the concept, but I thought it could go one step further. Why not combine that rugged snack case with the elegance of a charcuterie board? The only missing piece... an actual cutting/serving board.
 
-After some research into 3D-printable Milwaukee Packout cleat designs, I mounted one to the back of a cutting board cut to fit the case top. Voilà — phase one complete.
+After some research into 3D printable Milwaukee Packout cleat designs, I printed and mounted some to the back of a cutting board cut to fit the case top. Voilà — phase one complete.
 
-I was up against the deadline for the next ride, so instead of booking time on a laser cutter to burn in “Snackout,” I improvised, using synthetic oil of wintergreen. I transferred the ink from a reversed laserjet print directly onto the board. Not bad for a quick hack.
+I was up against the deadline for the next ride, so instead of finding time on a laser cutter to burn in “Snackout,” I improvised, using Synthetic Oil of Wintergreen. I transferred the ink from a reversed laserjet print directly onto the board. Not bad for a quick hack.
 
-At that point, I thought I was finished. I needed other *snaccessories* — a cheese knife and a bottle opener. Back to the drawing board. I designed and printed a custom center-bin tray to hold both securely in place.
+I quickly realized I needed other *snaccessories* — a cheese knife and a bottle opener. Back to the drawing board. I designed and printed a custom center-bin tray to hold both securely in place.
 
 The day before the ride, I mounted a Packout wall mount to my front bike rack so the Snackout (and cutting board) could lock in securely for transport. It worked beautifully… except for one detail: it was hot out, and the cheese got sweaty. Kenny suggested adding a chiller or ice block. We tossed around ideas — maybe stacking another Packout full of ice packs underneath, or other cooling methods.
 
@@ -30,7 +30,7 @@ The day before the ride, I mounted a Packout wall mount to my front bike rack so
 
 **Cooling Upgrade**
 
-In the end, I decided to replace the middle bin with a custom ice block. This part went better than expected, though I had one worry - would the coolant stay liquid, and would the container crack once frozen?
+In the end, I decided to replace the middle bin with a custom ice block. This part went better than expected, though I had one worry - would the coolant stay liquid and would the container crack once frozen?
 
 I went with soft-sided gel packs because they showed far less expansion and contraction between hot and cold than hard ice packs (which often bulge when frozen).
 
@@ -40,6 +40,10 @@ Not only did it work — it worked perfectly.
 
 ![Snackout](https://michaelmassie.com/assets/img/chillout.jpeg)
 ![Snackout](https://michaelmassie.com/assets/img/chillout01.jpeg)
+
+
+
+More pics here [Instagram](https://www.instagram.com/p/DNF9jbkuhL0)
 
 ---
 
@@ -51,7 +55,9 @@ It’s already been mounted to a bike, strapped to a kayak, tossed into a passen
 
 Oh, the places we’ll go!
 
+
+
 **Downloads**
 
-Chillout Brick - (Makerworld Link)[https://makerworld.com/en/models/1699887-milwaukee-tool-chillout#profileId-1802643]
+Chillout Brick - [Makerworld Link](https://makerworld.com/en/models/1699887-milwaukee-tool-chillout#profileId-1802643)
 
