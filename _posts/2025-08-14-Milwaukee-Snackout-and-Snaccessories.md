@@ -9,7 +9,7 @@ image: https://michaelmassie.com/assets/img/chillout.jpeg
 
 ---
 
-**The Birth of the Snackout**
+**Oh, the places we’ll go!**
 
 A couple of months ago, I had an idea to bring a charcuterie “to-go” box to a bike-and-coffee social ride (Scrappy Hour).
 
@@ -51,9 +51,7 @@ More pics here [Instagram](https://www.instagram.com/p/DNF9jbkuhL0)
 
 I still want to add more accessories: a toothpick tray, a napkin holder, maybe more. But for now, I’m calling it done.
 
-It’s already been mounted to a bike, strapped to a kayak, tossed into a passenger seat, and even used as a floating buffet table on a SUP board.
-
-Oh, the places we’ll go!
+It’s already been mounted to a bike, strapped to a kayak, tossed into a passenger seat, and even used on a SUP board as a floating buffet table.
 
 
 
