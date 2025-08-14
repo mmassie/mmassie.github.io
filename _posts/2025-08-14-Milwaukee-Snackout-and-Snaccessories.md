@@ -13,7 +13,7 @@ A couple months ago I had a desire to have a to-go box for charcuterie to bring 
 
 What I landed on was pulling out the middle bin again and custom making an ice block. This part went far better than i anticipated. i had only one concern - will it keep the coolant liquid and will it bust once frozen. decided to try the soft sided gel packs due to the fact that I saw by far the least expansion and contraction between a hot and cold state; most ice blocks i had seen belly out considerably when frozen. Cutting a gel pack and feeding it into my final prototype was the equivalent of putting toothpaste back into a tube... it was where good times go to die. That said, once it was in, cap went on with a health dose of super glue and into the freezer it went. Not only did it work, it worked perfectly. I want to make more accessories, for instance i would like a toothpick tray. napkin holder, etc, but for now I am calling this done. It's been mounted to a bike, a kayak, tossed in the passenger seat and used on a SUP board like a buffet table - Oh the places we will go!
 
-
+![Snackout](https://michaelmassie.com/assets/img/chillout.jpeg)
 ![Snackout](https://michaelmassie.com/assets/img/chillout01.jpeg)
 
 Here are the print files if you want one for yourself or have ideas on how to improve on what I have done.
