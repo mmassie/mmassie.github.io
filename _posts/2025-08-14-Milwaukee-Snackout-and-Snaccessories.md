@@ -30,7 +30,7 @@ The day before the ride, I mounted a Packout wall mount to my front bike rack so
 
 **Cooling Upgrade**
 
-In the end, I decided to replace the middle bin with a custom ice block. This part went better than expected, though I had one worry - would the coolant stay liquid and would the container crack once frozen?
+In the end, I decided to replace the middle bin with a custom ice block. This part went better than expected, though I had one worry - could the print hold the liquid coolant without leaking and would the container crack once frozen?
 
 I went with soft-sided gel packs because they showed far less expansion and contraction between hot and cold than hard ice packs (which often bulge when frozen).
 
