@@ -6,14 +6,50 @@ image: https://michaelmassie.com/assets/img/chillout.jpeg
 
 ![Snackout](https://michaelmassie.com/assets/img/snackout01.jpeg)
 
-A couple months ago I had a desire to have a to-go box for charcuterie to bring to a bike and coffee social group (Scrappy Hour). i had seen, a while back, a Washington MTB outfitter that offered "Snackouts" for rides - a Milwaukee Tool Packout Low-Profile Compact Organizer full of snacks like beef jerky, trail mix, and nuts. I loved that idea and thought these 2 concepts could come together... only thing missing was a cutting/serving board. Researched some Milwaukee Packout cleat designs to 3D print and mount to the back of the cutting board. Put it all together after cutting the board to fit the top and tada it was kinda done. I had a fast deadline to the next ride date so i skipped trying to get time on a laser cutter to burn in "Snackout" and opted for using synthetic oil of wintergreen to transfer the ink off a inverse laserjet print. I thought it was pretty done at that point but then realized I was in need of other snaccessories like a cheese knife and bottle opener. Back to the drawing board to design and print a center bin tray insert that could keep them both securely in place. Day before ride day I mounted a Packout wall mount to my front bike rack so that the Snackout and Cutting board could all click in securely for the ride. It all worked great except one thing... it was sweltering out and the cheese was sweaty... Kenny made a comment about finding a way to add a chiller or ice block. We batted around some ideas like another Packout under it full of ice packs and other options.
+Here’s a cleaned-up, more readable version of your blog post while keeping your voice and personality intact. I focused on making the flow smoother, trimming redundancy, and adding subtle structure so it’s easier to follow.
+
+---
+
+**The Birth of the Snackout**
+
+A couple of months ago, I had an idea: bring a charcuterie “to-go” box to a bike-and-coffee social ride (Scrappy Hour).
+
+I’d once seen a Washington MTB outfitter offering something they called “Snackouts” — a Milwaukee Tool Packout Low-Profile Compact Organizer filled with trail snacks like beef jerky, nuts, and trail mix. I loved the concept, but I thought it could go one step further. Why not combine that rugged snack case with the elegance of a charcuterie board? The only missing piece: an actual cutting/serving board.
+
+After some research into 3D-printable Milwaukee Packout cleat designs, I mounted one to the back of a cutting board cut to fit the case top. Voilà — phase one complete.
+
+I was up against the deadline for the next ride, so instead of booking time on a laser cutter to burn in “Snackout,” I improvised. Using synthetic oil of wintergreen, I transferred the ink from a reversed laserjet print directly onto the board. Not bad for a quick hack.
+
+At that point, I thought I was finished. Then reality hit: I needed other *snaccessories* — a cheese knife and a bottle opener. Back to the drawing board. I designed and printed a custom center-bin tray to hold both securely in place.
+
+The day before the ride, I mounted a Packout wall mount to my front bike rack so the Snackout (and cutting board) could lock in securely for transport. It worked beautifully… except for one detail: it was hot out, and the cheese got sweaty.
+
+Kenny suggested adding a chiller or ice block. We tossed around ideas — maybe stacking another Packout full of ice packs underneath, or other cooling methods.
 
 ![Snackout](https://michaelmassie.com/assets/img/snackout02.jpeg)
 ![Snackout](https://michaelmassie.com/assets/img/snackout03.jpeg)
 
-What I landed on was pulling out the middle bin again and custom making an ice block. This part went far better than i anticipated. i had only one concern - will it keep the coolant liquid and will it bust once frozen. decided to try the soft sided gel packs due to the fact that I saw by far the least expansion and contraction between a hot and cold state; most ice blocks i had seen belly out considerably when frozen. Cutting a gel pack and feeding it into my final prototype was the equivalent of putting toothpaste back into a tube... it was where good times go to die. That said, once it was in, cap went on with a health dose of super glue and into the freezer it went. Not only did it work, it worked perfectly. I want to make more accessories, for instance i would like a toothpick tray. napkin holder, etc, but for now I am calling this done. It's been mounted to a bike, a kayak, tossed in the passenger seat and used on a SUP board like a buffet table - Oh the places we will go!
+---
+
+**Cooling Upgrade**
+
+In the end, I decided to replace the middle bin with a custom ice block. This part went better than expected, though I had one worry: would the coolant stay liquid, and would the container crack once frozen?
+
+I went with soft-sided gel packs because they showed far less expansion and contraction between hot and cold than hard ice packs (which often bulge when frozen).
+
+Cutting one open and feeding it into my prototype was… like putting toothpaste back in the tube. It was a patience test. Once it was finally in, I sealed it with a healthy dose of super glue and tossed it in the freezer.
+
+Not only did it work — it worked perfectly.
 
 ![Snackout](https://michaelmassie.com/assets/img/chillout.jpeg)
 ![Snackout](https://michaelmassie.com/assets/img/chillout01.jpeg)
 
-Here are the print files if you want one for yourself or have ideas on how to improve on what I have done.
+---
+
+**Future Plans**
+
+I still want to add more accessories: a toothpick tray, a napkin holder, maybe more. But for now, I’m calling it done.
+
+It’s already been mounted to a bike, strapped to a kayak, tossed into a passenger seat, and even used as a floating buffet table on a SUP board.
+
+Oh, the places we’ll go!
