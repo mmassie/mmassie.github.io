@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: project
-iamge: https://michaelmassie.com/assets/img/oneBreath.jpeg
+image: https://michaelmassie.com/assets/img/oneBreath.jpeg
 ---
 
 ![Rex](https://michaelmassie.com/assets/img/rexArt.jpg)
