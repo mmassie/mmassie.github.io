@@ -19,7 +19,7 @@ After some research into 3D printable Milwaukee Packout cleat designs, I printed
 
 I was up against the deadline for the next ride, so instead of finding time on a laser cutter to burn in “Snackout,” I improvised, using Synthetic Oil of Wintergreen. I transferred the ink from a reversed laserjet print directly onto the board. Not bad for a quick hack.
 
-None of this up till now is a new idea, Snackleboxes and even sectional bins with cutting board lid tops are all over the internet. But it started becoming different when I realized I needed other *snaccessories* — a cheese knife and a bottle opener, maybe hot sauce, and the list started to grow. 
+None of this up till now is a new idea, Snackleboxes and even sectional bins with cutting board lid tops are all over the internet, but it started becoming different when I realized I needed other *snaccessories* — a cheese knife and a bottle opener, maybe hot sauce, and the list started to grow. 
 
 The day before the ride, I mounted a Packout wall mount to my front bike rack so the Snackout (and cutting board) could lock in securely for transport. It worked beautifully… except for one detail: it was hot out, and the cheese got sweaty. Kenny suggested adding a chiller or ice block. We tossed around ideas — maybe stacking another Packout full of ice packs underneath, or other cooling methods.
 
