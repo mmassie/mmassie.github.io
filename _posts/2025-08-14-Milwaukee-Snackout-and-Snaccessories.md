@@ -59,5 +59,10 @@ It may be possible that I am on a one man mission to make the Milwaukee Packout 
 
 **Downloads**
 
+I'll make the knife and bottle opener files available after some minor adjustments, as well as any new build as well.
+
+
 Chillout Brick - [Makerworld Link](https://makerworld.com/en/models/1699887-milwaukee-tool-chillout#profileId-1802643)
+
+
 
