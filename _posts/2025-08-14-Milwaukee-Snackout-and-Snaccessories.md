@@ -53,6 +53,8 @@ I still want to add more accessories: a toothpick tray, a napkin holder, maybe m
 
 It’s already been mounted to a bike, strapped to a kayak, tossed into a passenger seat, and even used on a SUP board as a floating buffet table.
 
+It may be possible that I am on a one man mission to make the Milwaukee Packout a lifesyle brand. :)
+
 ---
 
 **Downloads**
