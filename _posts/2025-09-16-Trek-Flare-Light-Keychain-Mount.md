@@ -8,7 +8,7 @@ image: https://michaelmassie.com/assets/img/flareKeychain.jpeg
 
 
 ---
-Designed and printed a keychain clip for the Trek Flare Lights that allos you to easily keep it on your keychain when you're not with your bike.
+Designed and printed a keychain clip for the Trek Flare Lights that allows you to easily keep it on your keychain when you're not with your bike.
 
 
 ---
