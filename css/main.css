@@ -25,27 +25,32 @@ body {
 }
 
 		/* main column */
-article	{
-	display: block;
-	position: relative;
+article {
+    position: relative;
     padding: 130px 40px 40px;
-	padding-left: 25%;
-	padding-right: 5%;
+    margin-left: 20%;
+    padding-right: 5%;
     line-height: 1.8em;
-	color: #434343;
-	min-width: 500px;
+    color: #434343;
+    min-width: 500px;
 }
+
+
 
 		/* left column */
 aside {
-    /* use `position: fixed` for a neat effect. use `overflow: hidden` to cut off when main column is short */
-    display: block;
-    position: absolute;
-	width: 20%;
-    height: 150%;
-	min-width: 200px;
-	background-size: auto;
-	background-image: url("https://michaelmassie.com/img/heroImage.jpg");;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+
+    width: 20%;
+    min-width: 200px;
+
+    background-image: url("https://michaelmassie.com/img/heroImage.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 p {
