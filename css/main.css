@@ -165,30 +165,38 @@ a.subURL:hover {
 
 @media only screen and (max-device-width: 900px) {
     aside {
-        visibility: hidden;
+        display: none;
     }
-    
+
     article {
-        padding: 40px 40px 40px;
-		width: 80%;
-		font-size: 1.4em;
+        margin: 0 auto;
+        padding: 40px 20px;
+        width: 100%;
+        max-width: 700px;
+
+        min-width: 0;          /* remove desktop constraint */
+        box-sizing: border-box;
+
+        font-size: 1.4em;
+        text-align: left;      /* readable body text */
     }
-    
+
     #title {
-	font-size: 1.8em;
-	}
-	
-	h2 {
-		font-size: 1.8em;
-	}
-    
+        font-size: 1.8em;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 1.8em;
+        text-align: center;
+    }
+
     p {
         line-height: 1.5em;
     }
-    
-    #box {
-	float: left;
-	width: 20%;
-    }
 
+    #box {
+        width: 100%;
+        float: none;
+    }
 }
