@@ -45,6 +45,7 @@ aside {
     height: 100%;
 	min-width: 200px;
 	background-size: auto;
+	background-image: url("https://michaelmassie.com/img/heroImage.jpg");;
 }
 
 p {
