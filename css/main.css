@@ -2,22 +2,13 @@ body {
     margin: 0;
     padding: 0;
     border: 0;
-    font: 16px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
-    color: rgb(22, 22, 22);
-    background:#E9DFCA;
-	font-weight: 300;
-	padding: 0;
-	letter-spacing: 1.2px;
-	color: #1C1C1C;
-	font-size: 16px;
-	line-height: 1.6em;
-}
-
-body {
+    font: 16px/1.6em "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: #1C1C1C;
+    background: #E9DFCA;
+    letter-spacing: 1.2px;
     position: relative; /* required for IE */
     min-height: 100%;
-
-    margin: 0 auto; /* center the body */
 }
 
 .page-container {
@@ -59,8 +50,10 @@ p {
 }
 
 h2 {
-    margin-top: 35px;
-    font-size: 5em;
+	font-weight: 400;
+	font-size: 24px;
+	font-style: normal;
+	margin-top: 30px;
 }
 
 #projects {
@@ -85,14 +78,7 @@ h2 {
 	-moz-outline-radius: 6px;
 	padding: 2px;
 	line-height: 2.2em;
-	margin-right: 4pt;
-}
-
-h2 {
-	font-weight: 400;
-	font-size: 24px;
-	font-style: normal;
-	margin-top: 30px;
+	margin-right: 4px;
 }
 
 ul.nav-tabs {
@@ -102,9 +88,8 @@ ul.nav-tabs {
 	font-size: 1.1em;
 }
 
-a:link, a:visited{
+a:link, a:visited {
 	color: #3B3B3B;
-    background: #E9DFCA;
 	text-decoration: none;
 	padding: 1px;
 }
@@ -115,11 +100,9 @@ a:hover {
 	text-decoration: none;
 }
 
-
-a.subURL:link, a.subURL:visited{
+a.subURL:link, a.subURL:visited {
 	text-decoration: none;
 	padding: 4px;
-    background: #E9DFCA;
 }
 
 a.subURL:hover {
@@ -151,19 +134,14 @@ a.subURL:hover {
 
 ::selection {
 	color: #E9DFCA;
-	background: #C188BB; /* Safari */
-	}
+	background: #C188BB;
+}
 ::-moz-selection {
 	color: #D4D6C9;
-	background: #C188BB; /* Firefox */
+	background: #C188BB;
 }
 
-.cf { zoom: 1; }
-.cf:before,
-.cf:after { content: ""; display: table; }
-.cf:after { clear: both; }
-
-@media only screen and (max-device-width: 900px) {
+@media only screen and (max-width: 900px) {
     aside {
         display: none;
     }
