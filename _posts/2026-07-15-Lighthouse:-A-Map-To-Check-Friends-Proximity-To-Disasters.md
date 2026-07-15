@@ -12,4 +12,4 @@ Using it is deliberately boring. You open index.html in a browser — no server,
 
 Your contact data stays yours: it lives in a plain contacts.json file (with a CSV mirror if you'd rather edit in a spreadsheet), geocoded once and cached, never sent anywhere except the free US Census geocoder that sharpens pin accuracy on first load. The data file contains real names and home addresses, so if you fork this project, keep your repository private. Beyond that, make it your own. Add contacts, prune old addresses, flip on the layers you care about, and let it sit in a pinned tab. Most days it will tell you nothing at all. But on the day a fire map on the news makes you wonder don't I know somebody out there? — you'll already know the answer.
 
-https://github.com/mmassie/lighthouse
+(Github Link)[https://github.com/mmassie/lighthouse]
