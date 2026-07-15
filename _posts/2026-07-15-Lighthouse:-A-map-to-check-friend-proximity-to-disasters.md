@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: project
-image: https://michaelmassie.com/assets/img/flareKeychain.jpeg
+image: https://michaelmassie.com/assets/img/lighthouse.PNG
 ---
 
 A few summers ago, I watched news coverage of a wildfire tearing through a part of California and had a nagging thought: I wonder how close any of my friends are to these fires. That gap between "disaster happening somewhere" and "disaster happening to someone I care about" is the reason I built Lighthouse. It's a single-page map that plants a small flag at the home of every person in my contacts list, then overlays live natural-disaster data on top: wildfires, hurricanes, tornadoes, floods, earthquakes, air quality, and smoke forecasts. The goal isn't to be another disaster tracker — plenty of those exist. It's to answer one very specific, very human question at a glance: is anything out there threatening someone I know and love, and should I reach out?
