@@ -4,7 +4,6 @@ tags: project
 image: https://michaelmassie.com/assets/img/lighthouse.PNG
 ---
 
-# Duet: a 3D-printed e-ink reader that plays your music
 
 ![](/assets/img/duetHeroImage.png)
 
