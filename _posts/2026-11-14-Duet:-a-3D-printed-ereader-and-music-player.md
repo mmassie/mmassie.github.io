@@ -3,12 +3,10 @@ layout: post
 tags: project
 image: https://michaelmassie.com/assets/img/lighthouse.PNG
 ---
-
+*An open-source, Kindle-sized ESP32 build with a book on one side and an MP3 player on the other.*
 
 ![](/assets/img/duetHeroImage.jpeg)
 
-
-*An open-source, Kindle-sized ESP32 build with a book on one side and an MP3 player on the other.*
 
 I wanted one device that does two things well: read books on e-ink for weeks between charges, and play my own music files over Bluetooth or a headphone jack, with no phone, subscription or app. I couldn't find one, so I'm building it. It's called **Duet**, and it's open source under GPL-3.0.
 
