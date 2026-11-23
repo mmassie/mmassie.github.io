@@ -3,7 +3,7 @@ layout: post
 tags: project
 image: https://michaelmassie.com/assets/img/duetHeroImage.jpeg
 ---
-*An open-source, Kindle-sized ESP32 build with a book on one side and an MP3 player on the other.*
+*An open-source, Kindle-sized ESP32 build that combines an ereader and an MP3 player.*
 
 ![](/assets/img/duetHeroImage.jpeg)
 
@@ -14,7 +14,7 @@ I wanted one device that does two things well: read books on e-ink for weeks bet
 
 ## What it is
 
-Duet is a Kindle-sized, 3D-printed folio. It has a 6-inch e-ink screen, three physical buttons, a battery, and a microSD card for books and music. A switch on the side powers the music side on and off.
+Duet is a Kindle-sized, 3D-printed folio. It has a 6-inch e-ink screen, 5 physical buttons, a battery, and 2 microSD cards, 1 for books and 1 for music. A switch on the side powers the music side on and off.
 
 - **Reader:** Soldered Inkplate 6 (800×600 e-ink, ESP32).
 - **Music:** Adafruit HUZZAH32 Feather, with a UDA1334A DAC for the 3.5 mm jack and Bluetooth A2DP for wireless headphones.
