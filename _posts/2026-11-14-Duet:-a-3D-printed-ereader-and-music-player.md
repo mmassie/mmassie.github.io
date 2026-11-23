@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: project
-image: https://michaelmassie.com/assets/img/lighthouse.PNG
+image: https://michaelmassie.com/assets/img/duetHeroImage.jpeg
 ---
 *An open-source, Kindle-sized ESP32 build with a book on one side and an MP3 player on the other.*
 
